@@ -1,5 +1,5 @@
 server:
-  port: 31200
+  port: 31200aaa
 eureka:
   client:
     registerWithEureka: true #服务注册开关
@@ -41,4 +41,3 @@ spring:
       discovery:
         enabled: true
         service-id: XC-SERVICE-MANAGE-CMS-CLIENT
-aaa
