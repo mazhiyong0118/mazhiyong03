@@ -41,3 +41,4 @@ spring:
       discovery:
         enabled: true
         service-id: XC-SERVICE-MANAGE-CMS-CLIENT
+aaa
