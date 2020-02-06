@@ -1,5 +1,5 @@
 server:
-  port: 31200
+  port: 31201
 eureka:
   client:
     registerWithEureka: false #服务注册开关
